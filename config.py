@@ -85,8 +85,8 @@ PING_IMG_URL = getenv(
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/9eefyn.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/9eefyn.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/9eefyn.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/9eefyn.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/nef735.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/9eefyn.jpg"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/9eefyn.jpg"
 YOUTUBE_IMG_URL = "https://files.catbox.moe/9eefyn.jpg"
